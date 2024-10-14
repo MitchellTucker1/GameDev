@@ -8,7 +8,6 @@
 <img src="./ReadMeAssets/icon.svg" alt="isolated" width="100" style="transform:rotate(60deg); margin-left: 20%;"/>
 <img src="./ReadMeAssets/icon.svg" alt="isolated" width="80" style="transform:rotate(30deg);  margin-left: 10%; "/>
 <img src="./ReadMeAssets/icon.svg" alt="isolated" width="130" style="transform:rotate(30deg);  margin-left: 10%; "/>
-<img src="./ReadMeAssets/icon.svg" alt="isolated" width="90" style="transform:rotate(30deg);  margin-left: 10%; "/>
 </div>
 
 
