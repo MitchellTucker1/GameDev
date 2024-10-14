@@ -17,6 +17,7 @@
 ![CS](https://img.shields.io/badge/SBCC-CSCLUB-blue)
 ![ENG](https://img.shields.io/badge/ENG-GODOT-green)
 ![LEVEL](https://img.shields.io/badge/LEVEL-INTRO-lightgreen)
+![NOCODE](https://img.shields.io/badge/NOCODE-purple)
 
 
 # GameDev
