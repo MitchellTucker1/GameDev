@@ -2,14 +2,14 @@
 <div style="display:flex;">
 
 <img src="./ReadMeAssets/icon.svg" alt="isolated" width="100" style="transform:rotate(0deg); "/>
-<img src="./ReadMeAssets/icon.svg" alt="isolated" width="100" style="transform:rotate(10deg);  margin-left: 10%; "/>
+<img src="./ReadMeAssets/icon.svg" alt="isolated" width="110" style="transform:rotate(10deg);  margin-left: 10%; "/>
 <img src="./ReadMeAssets/icon.svg" alt="isolated" width="100" style="transform:rotate(30deg);  margin-left: 10%; "/>
-<img src="./ReadMeAssets/icon.svg" alt="isolated" width="100" style="transform:rotate(50deg);  margin-left: 10%; "/>
+<img src="./ReadMeAssets/icon.svg" alt="isolated" width="120" style="transform:rotate(50deg);  margin-left: 10%; "/>
 <img src="./ReadMeAssets/icon.svg" alt="isolated" width="100" style="transform:rotate(60deg); margin-left: 20%;"/>
-<img src="./ReadMeAssets/icon.svg" alt="isolated" width="100" style="transform:rotate(30deg);  margin-left: 10%; "/>
-<img src="./ReadMeAssets/icon.svg" alt="isolated" width="100" style="transform:rotate(30deg);  margin-left: 10%; "/>
-<img src="./ReadMeAssets/icon.svg" alt="isolated" width="100" style="transform:rotate(30deg);  margin-left: 10%; "/>
-<img src="./ReadMeAssets/icon.svg" alt="isolated" width="100" style="transform:rotate(30deg);  margin-left: 10%; "/>
+<img src="./ReadMeAssets/icon.svg" alt="isolated" width="80" style="transform:rotate(30deg);  margin-left: 10%; "/>
+<img src="./ReadMeAssets/icon.svg" alt="isolated" width="130" style="transform:rotate(30deg);  margin-left: 10%; "/>
+<img src="./ReadMeAssets/icon.svg" alt="isolated" width="90" style="transform:rotate(30deg);  margin-left: 10%; "/>
+<img src="./ReadMeAssets/icon.svg" alt="isolated" width="130" style="transform:rotate(30deg);  margin-left: 10%; "/>
 </div>
 
 
