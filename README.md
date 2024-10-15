@@ -56,7 +56,7 @@ Quick start to create a new Godot project.
 
 ### Project Setup
 
-   1. Lunch Godot
+   1. Launch Godot
 
    2. Press create
 
